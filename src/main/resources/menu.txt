@@ -1,0 +1,14 @@
+# Menú configurable de la cafetería
+# CODIGO;NOMBRE;CATEGORIA;PRECIO;ATRIBUTO
+B01;Café americano;BEBIDA;4500;caliente
+B02;Capuchino;BEBIDA;7000;caliente
+B03;Té chai;BEBIDA;6500;caliente
+B04;Jugo de mora;BEBIDA;6000;fria
+B05;Frappé de café;BEBIDA;9500;fria
+P01;Sándwich de pollo;PLATO;16000;
+P02;Arepa rellena;PLATO;12000;
+P03;Ensalada César;PLATO;18000;
+P04;Hamburguesa clásica;PLATO;24000;
+R01;Brownie;POSTRE;6000;
+R02;Cheesecake de maracuyá;POSTRE;9000;
+R03;Torta de zanahoria;POSTRE;8000;
