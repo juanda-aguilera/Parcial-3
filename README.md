@@ -106,7 +106,3 @@ docs/PROMPTS_DIAGRAMAS.md        descripción detallada de cada diagrama
 | Nuevo tipo de producto (ej. "Snack") | Nuevo valor en `Categoria`, clase `Snack`, `CreadorSnack` y `menu.registrarCreador(...)` | Menu.crearProducto, Pedido |
 | Nuevo medio de pago externo | Crear su adaptador que implemente `MetodoPago` | Pedido, Caja |
 | Nueva área que reciba avisos (ej. "Domicilios") | Crear `PantallaDomicilios extends PantallaArea` y registrarla | Pedido, estados |
-
-## Declaración de uso de inteligencia artificial
-
-Según las reglas de integridad del parcial: se usó **Claude (Anthropic)** como apoyo para proponer la estructura del diseño, generar una primera versión del código, las pruebas, los diagramas en PlantUML y el borrador del documento de diseño. El grupo revisó, ejecutó y ajustó el resultado y debe poder explicar cada parte en la sustentación.
